@@ -1,1 +1,1 @@
-This is my experimental blog....my 2nd partial Rails experiment. 8-11-15
+Experimental blog 8-11-15
